@@ -1,0 +1,16 @@
+README.md
+setup.py
+VisualScrollingAid.egg-info/PKG-INFO
+VisualScrollingAid.egg-info/SOURCES.txt
+VisualScrollingAid.egg-info/dependency_links.txt
+VisualScrollingAid.egg-info/requires.txt
+VisualScrollingAid.egg-info/top_level.txt
+proof_of_concept/__init__.py
+proof_of_concept/cam_detect.py
+proof_of_concept/gesture.py
+proof_of_concept/nod_scroll.py
+proof_of_concept/pdfui.py
+proof_of_concept/pdfviewer_fin.py
+proof_of_concept/pdfviewer_finish.py
+proof_of_concept/setup.py
+proof_of_concept/webcam.py

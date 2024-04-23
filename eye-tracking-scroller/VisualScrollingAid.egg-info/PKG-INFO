@@ -1,0 +1,12 @@
+Metadata-Version: 2.1
+Name: VisualScrollingAid
+Version: 1.0
+Summary: Scroll through PDF optically
+Home-page: https://github.com/shobhitvoleti/eye-tracking-scroller
+Author: Shobhit Voleti, Siddharth Nair
+Author-email: shobhitvoleti@gmail.com,siddharth.nair@iitb.ac.in
+License: GPL3
+Requires-Dist: numpy
+Requires-Dist: pypdfocr
+Requires-Dist: Pillow
+Requires-Dist: opencv-python

@@ -1,0 +1,4 @@
+numpy
+pypdfocr
+Pillow
+opencv-python
